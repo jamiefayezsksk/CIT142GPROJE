@@ -1,0 +1,68 @@
+body {
+  width: 70%;
+  height: 100vh;
+  margin: 10 auto;
+  background-color:  #F7CAC9;
+  color: #f5f6f7;
+  font-family: Verdana;
+  font-size: 16px;
+  }
+
+  h1, p {
+  margin: 0.5em auto;
+  text-align: center;
+  }
+
+  heading {
+    max-width: 950px;
+    margin: 3rem auto;
+    padding: .3rem;
+  }
+  main {
+      padding: 0% 30% 0% 20%;
+  }
+
+  #title {
+    font-size: 5.2rem;
+    font-family: Brush Script MT;
+    line-height: 0.1;
+    padding: .2rem;
+  }
+  
+  #description {
+    font-size: 1rem;
+    padding: 0rem;
+  }
+
+  #survey-form {
+    background-color: #2222425d;
+    padding: 1rem 2.5rem;
+    border-radius: 10px; 
+  }
+  
+  #submit {
+    background: #B3CEE5;
+    color: #fff;
+    padding: .7rem;
+    font-size: 1.15rem;
+    cursor: pointer;
+  }
+
+  #submit:hover {
+    background: rgb(247,202,201);
+  }
+
+  .form {
+  width: 100%;
+  padding: .7rem;
+  border-radius: 6px;
+  font-size: 1.0rem;
+  border: none;
+  }
+  
+
+  textarea {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+}
